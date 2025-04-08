@@ -1,0 +1,22 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+header{
+ .arriba{
+    width: 82%;
+    background-color: aqua;
+}   
+.arriba1{
+    width: 90%;
+    background-color: yellow;
+}   
+background-color: coral;
+height: 50px;
+
+    }
+   
+body{
+    background-color: linen;
+}
