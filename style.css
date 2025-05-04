@@ -1,3 +1,21 @@
+.header {
+    background-color: #8CD9D9;
+    padding: 15px;
+    height: 30px;
+}
+
+.navbar {
+    background-color: #f1f1f1;
+    padding: 10px;
+    border-bottom: 1px solid #ddd;
+}
+
+.search-bar {
+    width: 80%;
+    margin: 0 auto;
+    padding: 5px;
+    display: block;
+}
 
  body {
     font-family: Arial, sans-serif;
